@@ -1,0 +1,33 @@
+/* includes alternating gray and white with on-hover color */
+
+.mystyle {
+    font-size: 11pt;
+    font-family: Arial;
+    border-collapse: collapse;
+}
+
+.mystyle th {
+    color: white;
+    background: #41D655;
+}
+
+.mystyle td, th {
+    padding: 5px;
+}
+
+.mystyle tr:nth-child(even) {
+    background: #E0E0E0;
+}
+
+.mystyle tr:hover {
+    background: silver;
+    cursor: pointer;
+}
+
+.test {
+    font-size: 10pt;
+    font-family: Verdana;
+    padding: 10px;
+    color: white;
+    background: #41D655;
+    }
