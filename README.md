@@ -7,6 +7,8 @@ NOTE: There is no need to add '#' as this is already included in the code, you s
 
 Prequisites needed for this code;  
 
-Tweepy & TextBlob & Pandas.
+Tweepy, TextBlob, Pandas & NLTK Sentiment (in Testing in this project).
+
+Will update how to install all the packages in due course.
 
 Once the code is executed, it should create an HTML file within the directory where the code is saved. Open the file to view the results which includes the pandas dataframe containing all the tweets.
